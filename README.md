@@ -15,7 +15,10 @@
  
 ### Стек
   HTML, CSS
- 
+
+#### Запуск 
+  Перейти по ссылке ниже
+
 ### Ссылка на gh-pages
 *https://maryutinvlad.github.io/how-to-learn/*
  
